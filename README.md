@@ -5,6 +5,8 @@
 Which product categories generate strong sales but weak profit, and where should discount policies be reviewed?
 
 ## Dataset & Tools
+Source: [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset)
+This analysis uses 10,194 sales lines from the downloaded CSV.
 - Dataset: Sample Superstore (public dataset from Kaggle), 10,194 sales lines
 - Tools: PostgreSQL, DBeaver
 - Analysis: sales, profit, profit margin, discount groups, and region
