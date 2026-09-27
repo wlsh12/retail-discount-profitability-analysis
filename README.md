@@ -1,5 +1,5 @@
 # Retail Sales & Discount Profitability Analysis
-📊 [View the presentation](presentation/Retail%20Sales%20%26%20Discount%20Profitability%20Analysis.pptx)
+📊 [View the presentation](https://docs.google.com/presentation/d/1F2HW1WDk3JmV75-TZi20lqfyQEVztxzEIGFnV13kmRE/edit?slide=id.retail_slide_12#slide=id.retail_slide_12)
 
 ## Business Problem
 Which product categories generate strong sales but weak profit, and where should discount policies be reviewed?
